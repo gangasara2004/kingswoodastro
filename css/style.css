@@ -2583,7 +2583,14 @@ a:hover {
     -webkit-appearance: none;
     -moz-appearance: none;
   }
+.logos {
+    padding: 10px 0;
+  }
 
+  .logos ul li {
+    width: auto;
+    margin: auto;
+  }
   .header .gallery-thumbs {
     height: 60%;
     top: 20%;
@@ -2822,12 +2829,12 @@ a:hover {
   }
 
   .logos {
-    padding: 30px 0;
+    padding: 10px 0;
   }
 
   .logos ul li {
-    width: 33.33333%;
-    margin: 25px auto;
+    width: auto;
+    margin: auto;
   }
 
   .filter-bar {
